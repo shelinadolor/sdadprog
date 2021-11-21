@@ -1,0 +1,12 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+			string name = "Shelina";
+			int age = 21;
+			Console.WriteLine("Hey " + name);
+			Console.WriteLine("Your age is " + age);
+	}
+}
